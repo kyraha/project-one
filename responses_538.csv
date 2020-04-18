@@ -1,6 +1,6 @@
-Timestamp,Intelligence [Row 1],Combat [Row 1],Speed [Row 1],Durability [Row 1],Strength [Row 1],Power (Non-physical) [Row 1]
-4/15/2020 21:51:28,4,5,5,3,4,5
-4/15/2020 22:00:16,4,5,4,3,4,5
-4/15/2020 22:02:39,5,3,5,4,3,5
-4/15/2020 22:07:46,5,1,1,1,1,1
-4/15/2020 23:48:06,5,5,5,5,5,5
+Timestamp,Intelligence,Combat,Speed,Durability,Strength,Power (Non-physical)
+4/15/2020 21:51,4,5,5,3,4,5
+4/15/2020 22:00,4,5,4,3,4,5
+4/15/2020 22:02,5,3,5,4,3,5
+4/15/2020 22:07,5,1,1,1,1,1
+4/15/2020 23:48,5,5,5,5,5,5
